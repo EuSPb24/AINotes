@@ -1,0 +1,36 @@
+AINotes Software License Agreement (Freeware)
+Copyright (c) 2026 EvGen & Gemini AI Assistant. All rights reserved.
+
+1. GRANT OF LICENSE
+You are granted a free, non-exclusive, non-transferable license to download, install, and use the compiled executable software "AINotes" (including its installer and localization files) on any number of computers for personal, educational, or commercial purposes.
+
+2. RESTRICTIONS
+- You may not sell, rent, lease, or sublicense the Software for a fee.
+- You may not decompile, disassemble, reverse-engineer, or modify the executable binary files.
+- Redistribution of the installer is permitted only in its original, unmodified form with clear attribution to the authors and a link to the official repository: https://github.com/EuSPb24/AINotes
+
+3. PRIVACY & NETWORK HYGIENE
+The Software operates strictly locally on the user's device and does not transmit any user data, telemetry, or analytics over the network.
+
+4. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+------------------------------------------------------------------------
+
+Лицензионное соглашение на программу AINotes (Бесплатное ПО / Freeware)
+Copyright (c) 2026 EvGen и ИИ-ассистент Gemini (Google). Все права защищены.
+
+1. ПРЕДОСТАВЛЕНИЕ ЛИЦЕНЗИИ
+Пользователю предоставляется бесплатная, неисключительная лицензия на загрузку, установку и использование скомпилированной программы «AINotes» (включая установщик и файлы локализации) на любом количестве компьютеров в личных, образовательных или рабочих целях.
+
+2. ОГРАНИЧЕНИЯ
+- Запрещается продавать, сдавать в аренду или распространять Программу на платной основе.
+- Запрещается декомпилировать, дизассемблировать, проводить обратную разработку или изменять исполняемые файлы Программы.
+- Свободное распространение оригинального установщика разрешается только в неизменном виде с указанием авторства и ссылки на официальный репозиторий: https://github.com/EuSPb24/AINotes
+
+3. СЕТЕВАЯ ГИГИЕНА И КОНФИДЕНЦИАЛЬНОСТЬ
+Программа работает исключительно локально на устройстве пользователя и не передает никаких данных, телеметрии или аналитики по сети.
+
+4. ОТКАЗ ОТ ГАРАНТИЙ
+ПРОГРАММА ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ» (AS IS), БЕЗ КАКИХ-ЛИБО ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ ГАРАНТИЙ. АВТОРЫ НЕ НЕСУТ ОТВЕТСТВЕННОСТИ ЗА ЛЮБОЙ ПРЯМОЙ ИЛИ КОСВЕННЫЙ УЩЕРБ, ВОЗНИКШИЙ В РЕЗУЛЬТАТЕ ИСПОЛЬЗОВАНИЯ ИЛИ НЕВОЗМОЖНОСТИ ИСПОЛЬЗОВАНИЯ ПРОГРАММЫ.
+
