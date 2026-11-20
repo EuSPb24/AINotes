@@ -65,7 +65,7 @@ The utility is built on the principle of **Zero Network Footprint**:
 
 ---
 
-Distributed free of charge under the [Freeware License](LICENSE).
+Distributed free of charge under the [Freeware License].
 
 ## Authors
 
